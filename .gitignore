@@ -1,3 +1,15 @@
 *.pro.user
 build_*/
 lib/qtil/
+.qmake.stash
+debian
+ocs-url
+pkg/ubuntu/debian/.debhelper/
+pkg/ubuntu/debian/debhelper-build-stamp
+pkg/ubuntu/debian/files
+pkg/ubuntu/debian/ocs-url.substvars
+pkg/ubuntu/debian/ocs-url/
+pkg/ubuntu/debian/source/
+pkg/ubuntu/debian/tmp/
+Makefile
+
