@@ -16,7 +16,7 @@ ubuntu_deb:
 
 fedora_rpm:
   stage: build
-  image: fedora:40
+  image: fedora:41
   only:
     - master
     - /^release\-.+/
