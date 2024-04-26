@@ -3,7 +3,7 @@ stages:
 
 ubuntu_deb:
   stage: build
-  image: ubuntu:22.04
+  image: ubuntu:24.04
   only:
     - master
     - /^release\-.+/
